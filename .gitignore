@@ -1,0 +1,16 @@
+# Compiled programs
+bin/
+
+# Object files
+*.o
+
+# Other compiled binaries
+*.out
+*.exe
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

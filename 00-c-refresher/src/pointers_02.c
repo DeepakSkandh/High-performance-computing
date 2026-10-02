@@ -11,5 +11,7 @@ int main() {
     printf("%u\n",new);
     printf("%p\n",(void *)p);
     printf("%p\n",(void *)&new);
+    printf("%p\n",(void *)&p); // address of pointer p
+
     return 0;
 }

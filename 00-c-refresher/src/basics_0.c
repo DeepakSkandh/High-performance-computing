@@ -8,5 +8,6 @@ int main() {
     printf("%a\n",1.0); // hex float
     printf("%c\n",'A'); // single character
     printf("100%%\n"); //literal
+    printf("%i %i\n",10,100); 
     return 0;
 }
